@@ -1,0 +1,16 @@
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netcoreapp2.2\DevAvaliacao.Infra.deps.json
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netcoreapp2.2\DevAvaliacao.Infra.runtimeconfig.json
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netcoreapp2.2\DevAvaliacao.Infra.runtimeconfig.dev.json
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netcoreapp2.2\DevAvaliacao.Infra.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netcoreapp2.2\DevAvaliacao.Infra.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netcoreapp2.2\DevAvaliacao.Domain.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netcoreapp2.2\DevAvaliacao.Shared.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netcoreapp2.2\DevAvaliacao.Domain.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netcoreapp2.2\DevAvaliacao.Shared.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netcoreapp2.2\DevAvaliacao.Infra.csprojAssemblyReference.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netcoreapp2.2\DevAvaliacao.Infra.csproj.CoreCompileInputs.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netcoreapp2.2\DevAvaliacao.Infra.AssemblyInfoInputs.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netcoreapp2.2\DevAvaliacao.Infra.AssemblyInfo.cs
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netcoreapp2.2\DevAvaliacao.Infra.csproj.CopyComplete
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netcoreapp2.2\DevAvaliacao.Infra.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netcoreapp2.2\DevAvaliacao.Infra.pdb

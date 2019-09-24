@@ -1,0 +1,14 @@
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netstandard2.0\DevAvaliacao.Infra.deps.json
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netstandard2.0\DevAvaliacao.Infra.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netstandard2.0\DevAvaliacao.Infra.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netstandard2.0\DevAvaliacao.Domain.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netstandard2.0\DevAvaliacao.Shared.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netstandard2.0\DevAvaliacao.Domain.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\bin\Debug\netstandard2.0\DevAvaliacao.Shared.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netstandard2.0\DevAvaliacao.Infra.csprojAssemblyReference.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netstandard2.0\DevAvaliacao.Infra.csproj.CoreCompileInputs.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netstandard2.0\DevAvaliacao.Infra.AssemblyInfoInputs.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netstandard2.0\DevAvaliacao.Infra.AssemblyInfo.cs
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netstandard2.0\DevAvaliacao.Infra.csproj.CopyComplete
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netstandard2.0\DevAvaliacao.Infra.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Infra\obj\Debug\netstandard2.0\DevAvaliacao.Infra.pdb

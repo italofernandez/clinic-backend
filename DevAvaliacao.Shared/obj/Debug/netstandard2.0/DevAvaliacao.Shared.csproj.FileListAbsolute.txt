@@ -1,0 +1,9 @@
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Shared\bin\Debug\netstandard2.0\DevAvaliacao.Shared.deps.json
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Shared\bin\Debug\netstandard2.0\DevAvaliacao.Shared.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Shared\bin\Debug\netstandard2.0\DevAvaliacao.Shared.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Shared\obj\Debug\netstandard2.0\DevAvaliacao.Shared.csprojAssemblyReference.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Shared\obj\Debug\netstandard2.0\DevAvaliacao.Shared.csproj.CoreCompileInputs.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Shared\obj\Debug\netstandard2.0\DevAvaliacao.Shared.AssemblyInfoInputs.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Shared\obj\Debug\netstandard2.0\DevAvaliacao.Shared.AssemblyInfo.cs
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Shared\obj\Debug\netstandard2.0\DevAvaliacao.Shared.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Shared\obj\Debug\netstandard2.0\DevAvaliacao.Shared.pdb

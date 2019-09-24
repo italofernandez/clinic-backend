@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.2.4" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL.Design" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DevAvaliacao.Domain\DevAvaliacao.Domain.csproj" />
+    <ProjectReference Include="..\DevAvaliacao.Shared\DevAvaliacao.Shared.csproj" />
+    <ProjectReference Include="..\DevAvaliacao.Infra\DevAvaliacao.Infra.csproj" />
+    <ProjectReference Include="..\DevAvaliacao.Application\DevAvaliacao.Application.csproj" />
+  </ItemGroup>
+
+</Project>

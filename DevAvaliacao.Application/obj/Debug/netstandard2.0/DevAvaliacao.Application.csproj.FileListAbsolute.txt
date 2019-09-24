@@ -1,0 +1,16 @@
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\bin\Debug\netstandard2.0\DevAvaliacao.Application.deps.json
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\bin\Debug\netstandard2.0\DevAvaliacao.Application.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\bin\Debug\netstandard2.0\DevAvaliacao.Application.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\bin\Debug\netstandard2.0\DevAvaliacao.Domain.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\bin\Debug\netstandard2.0\DevAvaliacao.Infra.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\bin\Debug\netstandard2.0\DevAvaliacao.Shared.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\bin\Debug\netstandard2.0\DevAvaliacao.Domain.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\bin\Debug\netstandard2.0\DevAvaliacao.Shared.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\bin\Debug\netstandard2.0\DevAvaliacao.Infra.pdb
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\obj\Debug\netstandard2.0\DevAvaliacao.Application.csprojAssemblyReference.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\obj\Debug\netstandard2.0\DevAvaliacao.Application.csproj.CoreCompileInputs.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\obj\Debug\netstandard2.0\DevAvaliacao.Application.AssemblyInfoInputs.cache
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\obj\Debug\netstandard2.0\DevAvaliacao.Application.AssemblyInfo.cs
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\obj\Debug\netstandard2.0\DevAvaliacao.Application.csproj.CopyComplete
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\obj\Debug\netstandard2.0\DevAvaliacao.Application.dll
+C:\Users\italofernandes\source\repos\ClinicaSIM\dev-avaliacao\DevAvaliacao.Application\obj\Debug\netstandard2.0\DevAvaliacao.Application.pdb
